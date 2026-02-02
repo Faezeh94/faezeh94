@@ -24,14 +24,14 @@ Detail-oriented **Data Analyst** and **Software Developer** with a strong founda
 
 ## 📊 **Featured Projects**
 
-### **[Project Name: e.g., Clinical Data Pipeline]**
-[cite_start]*Developed during Data Analyst Internship at Ortho BioMed Inc.*
-* [cite_start]**The Problem:** Unstructured clinical data required manual validation and lacked a centralized reporting structure.
-* [cite_start]**The Solution:** Architected a Python-based ETL pipeline to automate the extraction of patient insights from electronic health records (EHR).
-* [cite_start]**The Result:** Reduced manual documentation time and implemented secure data-sharing protocols for 50k+ unique patient records.
+### **Clinical Data Pipeline**
+*Developed during Data Analyst Internship at Ortho BioMed Inc.*
+* **The Problem:** Unstructured clinical data required manual validation and lacked a centralized reporting structure.
+* **The Solution:** Architected a Python-based ETL pipeline to automate the extraction of patient insights from electronic health records (EHR).
+* **The Result:** Reduced manual documentation time and implemented secure data-sharing protocols for 50k+ unique patient records.
 * **Tech:** Python, SQL, Data Validation SOPs.
 
-### **[Project Name: e.g., Asynchronous Data API]**
+### **Asynchronous Data API**
 *Freelance Software Development* 
 * **The Goal:** Build a high-performance system to process and render raw information for a dynamic frontend.
 * **Architecture:** Designed an asynchronous Flask-based API using Regex for data parsing and rendered outputs in LaTeX.
